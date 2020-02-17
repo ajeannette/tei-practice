@@ -2,7 +2,7 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title>Chapter 1: Classifying Slar System Objects</title>
+      <title>Chapter 1: Classifying Solar System Objects</title>
       <author>Laurel Robinson</author>
     </titleStmt>
     <publicationStmt>
@@ -14,41 +14,48 @@
   </fileDesc>
 </teiHeader>
 <text>
-  <body>
-	<p>In this chapter, you will learn how scientists classify objects in the solar system.  You will see how scientists define a planet, what the difference between a Terrestrial planet and a Jovian planet is, and how other objects, like dwarf planets, are defined.</p><p>As you read this, you are sitting somewhere on the planet Earth.  Earth is one of the eight planets that orbit the Sun in our solar system.  In order from closest to the Sun to furthest, those planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.  At one time Pluto, which orbits beyond Neptune, was also considered a planet; however it is no longer considered so.  We will see why shortly.  Our Sun is but one of hundreds of billions of stars which make up our galaxy, the Milky Way Galaxy.  Finally, our galaxy is but one of hundreds of billions of galaxies in the universe!</p>
-    <p>Of course, ancient Greek and Roman astronomers did not know this.  All these astronomers knew was that when they looked up at the sky, there were pinpricks of light.  They noted that these pinpricks of light remained in the same patterns and did not move relative to one another (this is why we can define constellations – because the stars that make up the Big Dipper, for example, are always in the same place in reference to one another).  However, they also noted that there were a few pinpricks of light that did not obey this rule; these pinpricks of light moved around against the background pattern of stars.  Thus they called these pinpricks of light “planets” (meaning “wandering star” in Greek) and named them Mercury, Venus, Mars, Jupiter, and Saturn after their gods.</p>
-    <p>As science progressed, scientists realized that planets are actually balls of rock and/or gas that orbit the Sun.  And as telescopes were invented and advanced, we discovered three more planets: Uranus in 1781, Neptune in 1846, and Pluto in 1930.</p>
-    <p>The problem (for Pluto!) arose around the turn of the millennium, when scientists suddenly began to find many more objects similar in size to Pluto (some even bigger) and in similar orbits as Pluto.  Some of these objects are shown in Figure 1.1.  Scientists were faced with a decision: either they needed to call all of these new objects planets as well, or they had to change the definition of a planet.  They choose the later, and in 2006 the International Astronomical Union presented the new scientifically accepted definition of a planet.</p>
-According to this new definition, a planet is an object that (1) orbits the Sun, (2) is big enough to be round (> 1,000 km in diameter), and (3) has cleared its orbit of debris (think of a truck driving down the highway alone, versus a truck surrounded by other trucks and cars!).  Pluto orbits the Sun and is big enough to be round, but because many other objects surround it, it has not cleared its orbit of debris.  Thus Pluto is no longer considered a planet.  
-	
-There are two types of planets: Terrestrial and Jovian.  The differences can be seen on the plot in Figure 1.2 that shows the densities, sizes, and compositions of the planets.  The Terrestrial planets are Mercury, Venus, Earth, and Mars.  These are relatively small, rocky, high density planets with orbits that are closer to the Sun. The Jovian planets are Jupiter, Saturn, Uranus, and Neptune.  These are relatively large, gaseous, low density planets with orbits that are further from the Sun.  Unlike the Terrestrial planets, the Jovian planets have no solid surface, but they do have rings.
-
- 
-Figure 1.2: Densities, sizes, and compositions of the planets and Pluto.  
-
-What about Pluto?  The International Astronomical Union (or IAU) defined a new category for Pluto: Pluto is a dwarf planet.  A dwarf planet is an object that (1) orbits the Sun, (2) is big enough to be round (> 1,000 km in diameter), but (3) has NOT cleared its orbit of debris.  Thus a dwarf planet satisfies the first two planet criteria but not the third.  
-
-What about objects that satisfy the first planet criteria but not the second or third?  Such an object is called either an asteroid or a Kuiper Belt Object, depending upon where in the solar system it orbits.  An asteroid is an object that (1) orbits the Sun between 2 and 5 AU (between Mars and Jupiter), (2) is NOT big enough to be round, and (3) is composed of rock.  A Kuiper Belt Object (KBO) is an object that (1) orbits the Sun between 40 and 500 AU (beyond Neptune), (2) is NOT big enough to be round, and (3) is composed of rock and ice.  Note that AU (Astronomical Unit) is a unit of distance: 1 AU = the distance between the Earth and the Sun = 93,000,000 miles.  So a distance of 40 AU, for example, means 40 times further away from the Sun than the Earth is!  Lastly, an object that orbits a planet or a dwarf planet is called a moon.
-
-
-Figure 1.3 illustrates four expanding views of the solar system.  Starting in the upper left, we have a view of the inner Solar System.  Here we see the Sun and the orbits of the Terrestrial planets and Jupiter.  Between the orbits of Mars and Jupiter lies the asteroid belt; asteroids are shown by dots in the image.  Within the asteroid belt lies one dwarf planet (Ceres).  Moving to the image in the upper right, the scale expands out to include Pluto.  At this scale, the dots representing asteroids and the orbits of the inner planets are too small to pick out.  However, we can see the orbits of the outer planets.  Near Pluto and beyond lies the Kuiper Belt; Kuiper Belt Objects are shown by dots in the image.  Additionally, there are about 50 different dwarf planets that lie within the Kuiper Belt.  Some of these dwarf planets are much further away from the Sun than Pluto is.  For example, the dwarf planet Sedna orbits the Sun in a very elliptical (oval) orbit that takes it as far away as about 937 AU from the Sun!  The image in the lower right hand corner expands the view of the solar system to include Sedna’s orbit.  Lastly, surrounding the solar system there exists a spherical cloud of comets (which sometimes get bumped into the inner solar system where we can see them) called the Oort Cloud.  The Oort Cloud marks the edge of the solar system and extends from about 50,000 to 200,000 AU.  The image in the lower left hand corner expands the view of the solar system to include the inner edge of the Oort Cloud.  Note that the Oort Cloud is so far away relative to everything else in the solar system that you can barely even see the orbit of Sedna in this image!
-
- 
-Figure 1.3: Four expanding views of the solar system, starting in the upper left and moving clockwise.  (https://commons.wikimedia.org/wiki/File:Oort_cloud_Sedna_orbit.jpg) 
-
-Questions You Should Be Able to Answer
-1.	What is a planet (according to the IAU)?
-2.	Why is Pluto NOT a planet?  How should Pluto be classified?
-3.	What is the difference between a Terrestrial planet and a Jovian planet?  Name the Terrestrial and Jovian planets of our solar system.
-4.	What is a dwarf planet?
-5.	What is an asteroid?
-6.	What is a KBO?
-7.	What is a moon?
-Common Pitfalls
--How do you know whether an object has cleared its orbit of debris?  To answer this question, look at the object’s orbital distance from the Sun.  If the distance is 2-5 AU (between Mars and Jupiter), the object is surrounded by asteroids and hence has NOT cleared its orbit.  If the distance is 40-500 AU (beyond Neptune), the object is surrounded by KBOs and hence has NOT cleared its orbit.  Anywhere else, the object HAS cleared its orbit.
-
--Just because an object is located within the asteroid belt or Kuiper Belt, does not mean it is necessarily classified as an asteroid or a KBO.  Remember that asteroids and KBOs are not big enough to be round.  So if you have a round object that is within the asteroid belt, for example, it is not an asteroid.  It is a dwarf planet surrounded by asteroids!
-
+<body>
+  <div type="section" n="1"> 
+    <head type="mainTitle">Chapter 1: Classifying Solar System Objects</head>
+	 <p>In this chapter, you will learn how scientists classify objects in the solar system.  You will see how scientists define a planet, what the difference between a Terrestrial planet and a Jovian planet is, and how other objects, like dwarf planets, are defined.</p>
+   <p>As you read this, you are sitting somewhere on the planet Earth.  Earth is one of the eight planets that orbit the Sun in our solar system.  In order from closest to the Sun to furthest, those planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.  At one time Pluto, which orbits beyond Neptune, was also considered a planet; however it is no longer considered so.  We will see why shortly.  Our Sun is but one of hundreds of billions of stars which make up our galaxy, the Milky Way Galaxy.  Finally, our galaxy is but one of hundreds of billions of galaxies in the universe!</p>
+   <p>Of course, ancient Greek and Roman astronomers did not know this.  All these astronomers knew was that when they looked up at the sky, there were pinpricks of light.  They noted that these pinpricks of light remained in the same patterns and did not move relative to one another (this is why we can define constellations – because the stars that make up the Big Dipper, for example, are always in the same place in reference to one another).  However, they also noted that there were a few pinpricks of light that did not obey this rule; these pinpricks of light moved around against the background pattern of stars.  Thus they called these pinpricks of light “planets” (meaning “wandering star” in Greek) and named them Mercury, Venus, Mars, Jupiter, and Saturn after their gods.</p>
+   <p>As science progressed, scientists realized that planets are actually balls of rock and/or gas that orbit the Sun.  And as telescopes were invented and advanced, we discovered three more planets: Uranus in 1781, Neptune in 1846, and Pluto in 1930.</p>
+   <p>The problem (for Pluto!) arose around the turn of the millennium, when scientists suddenly began to find many more objects similar in size to Pluto (some even bigger) and in similar orbits as Pluto.  Some of these objects are shown in Figure 1.1.  Scientists were faced with a decision: either they needed to call all of these new objects planets as well, or they had to change the definition of a planet.  They choose the later, and in 2006 the International Astronomical Union presented the new scientifically accepted definition of a planet.</p>
+   <p>According to this new definition, a planet is an object that (1) orbits the Sun, (2) is big enough to be round (> 1,000 km in diameter), and (3) has cleared its orbit of debris (think of a truck driving down the highway alone, versus a truck surrounded by other trucks and cars!).  Pluto orbits the Sun and is big enough to be round, but because many other objects surround it, it has not cleared its orbit of debris.  Thus Pluto is no longer considered a planet.</p>  
+   <p>There are two types of planets: Terrestrial and Jovian.  The differences can be seen on the plot in Figure 1.2 that shows the densities, sizes, and compositions of the planets.  The Terrestrial planets are Mercury, Venus, Earth, and Mars.  These are relatively small, rocky, high density planets with orbits that are closer to the Sun. The Jovian planets are Jupiter, Saturn, Uranus, and Neptune.  These are relatively large, gaseous, low density planets with orbits that are further from the Sun.  Unlike the Terrestrial planets, the Jovian planets have no solid surface, but they do have rings.</p>
+     <figure>
+       <head>Figure 1.2</head>
+        <graphic url=""/>
+        <p>Figure 1.2: Densities, sizes, and compositions of the planets and Pluto.</p>
+      </figure>
+    <p>What about Pluto?  The International Astronomical Union (or IAU) defined a new category for Pluto: Pluto is a dwarf planet.  A dwarf planet is an object that (1) orbits the Sun, (2) is big enough to be round (> 1,000 km in diameter), but (3) has NOT cleared its orbit of debris.  Thus a dwarf planet satisfies the first two planet criteria but not the third.</p>  
+    <p>What about objects that satisfy the first planet criteria but not the second or third?  Such an object is called either an asteroid or a Kuiper Belt Object, depending upon where in the solar system it orbits.  An asteroid is an object that (1) orbits the Sun between 2 and 5 AU (between Mars and Jupiter), (2) is NOT big enough to be round, and (3) is composed of rock.  A Kuiper Belt Object (KBO) is an object that (1) orbits the Sun between 40 and 500 AU (beyond Neptune), (2) is NOT big enough to be round, and (3) is composed of rock and ice.  Note that AU (Astronomical Unit) is a unit of distance: 1 AU = the distance between the Earth and the Sun = 93,000,000 miles.  So a distance of 40 AU, for example, means 40 times further away from the Sun than the Earth is!  Lastly, an object that orbits a planet or a dwarf planet is called a moon.</p>
+      <figure>
+        <head>Figure 1.3</head>
+        <graphic url=""/>
+        <p>Figure 1.3 illustrates four expanding views of the solar system.  Starting in the upper left, we have a view of the inner Solar System.  Here we see the Sun and the orbits of the Terrestrial planets and Jupiter.  Between the orbits of Mars and Jupiter lies the asteroid belt; asteroids are shown by dots in the image.  Within the asteroid belt lies one dwarf planet (Ceres).  Moving to the image in the upper right, the scale expands out to include Pluto.  At this scale, the dots representing asteroids and the orbits of the inner planets are too small to pick out.  However, we can see the orbits of the outer planets.  Near Pluto and beyond lies the Kuiper Belt; Kuiper Belt Objects are shown by dots in the image.  Additionally, there are about 50 different dwarf planets that lie within the Kuiper Belt.  Some of these dwarf planets are much further away from the Sun than Pluto is.  For example, the dwarf planet Sedna orbits the Sun in a very elliptical (oval) orbit that takes it as far away as about 937 AU from the Sun!  The image in the lower right hand corner expands the view of the solar system to include Sedna’s orbit.  Lastly, surrounding the solar system there exists a spherical cloud of comets (which sometimes get bumped into the inner solar system where we can see them) called the Oort Cloud.  The Oort Cloud marks the edge of the solar system and extends from about 50,000 to 200,000 AU.  The image in the lower left hand corner expands the view of the solar system to include the inner edge of the Oort Cloud.  Note that the Oort Cloud is so far away relative to everything else in the solar system that you can barely even see the orbit of Sedna in this image!</p>
+      </figure>
+   </div>
+  <div type="section" n="2">
+    <list type="numbered">
+      <head>Questions You Should Be Able to Answer</head>
+      <item n="1">What is a planet (according to the IAU)?</item>
+      <item n="2">Why is Pluto NOT a planet?  How should Pluto be classified?</item>
+      <item n="3">What is the difference between a Terrestrial planet and a Jovian planet?  Name the Terrestrial and Jovian planets of our solar system.</item>
+      <item n="4">What is a dwarf planet?</item>
+      <item n="5">What is an asteroid?</item>
+      <item n="6">What is a KBO?</item>
+      <item n="7">What is a moon?</item>
+    </list>
+  </div>
+<div type="section" n="3">
+  <head>Common Pitfalls</head>
+    <list type="unnumbered">
+      <item>How do you know whether an object has cleared its orbit of debris?  To answer this question, look at the object’s orbital distance from the Sun.  If the distance is 2-5 AU (between Mars and Jupiter), the object is surrounded by asteroids and hence has NOT cleared its orbit.  If the distance is 40-500 AU (beyond Neptune), the object is surrounded by KBOs and hence has NOT cleared its orbit.  Anywhere else, the object HAS cleared its orbit.</item>
+      <item>Just because an object is located within the asteroid belt or Kuiper Belt, does not mean it is necessarily classified as an asteroid or a KBO.  Remember that asteroids and KBOs are not big enough to be round.  So if you have a round object that is within the asteroid belt, for example, it is not an asteroid.  It is a dwarf planet surrounded by asteroids!</item>
+    </list>
+</div>
 
 
 
